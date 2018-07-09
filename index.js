@@ -1,7 +1,7 @@
-const Maybe = require('crocks/Maybe')
+//const Maybe = require('crocks/Maybe')
 const safe = require('crocks/Maybe/safe')
 const prop = require('crocks/Maybe/prop')
-const { compose, isNil, not } = require('ramda')
+//const { compose, isNil, not } = require('ramda')
 
 const { inc, upper, double } = require('./utils')
 
