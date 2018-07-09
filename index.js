@@ -16,7 +16,7 @@ console.log(result2)
 
 const doubleOfInc = n => {
   const safeNumber = safe(number, n)
-  return safeNumber.map(inc).map(double)
+  return safeNumber.map(inc).map(double).option(0)
 }
 const result3 = doubleOfInc(2)
 console.log(result3)
