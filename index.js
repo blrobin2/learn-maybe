@@ -10,6 +10,6 @@ console.log(result)
 
 const safe = val => typeof val === 'string' ? Maybe.Just(val) : Maybe.Nothing()
 
-const input2 = undefined
-const result2 = upper(input2)
+const input2 = safe('bit')
+const result2 = input2.map(upper)
 console.log(result2)
