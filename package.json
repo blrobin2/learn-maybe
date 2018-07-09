@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "crocks": "^0.9.4"
+    "crocks": "^0.9.4",
+    "ramda": "^0.25.0"
   }
 }

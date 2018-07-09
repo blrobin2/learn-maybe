@@ -5,3 +5,7 @@
 crocks@^0.9.4:
   version "0.9.4"
   resolved "https://registry.yarnpkg.com/crocks/-/crocks-0.9.4.tgz#bc4e13da4b3173a8e48af0a620dc83ee7c4b22b0"
+
+ramda@^0.25.0:
+  version "0.25.0"
+  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.25.0.tgz#8fdf68231cffa90bc2f9460390a0cb74a29b29a9"
