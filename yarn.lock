@@ -2,9 +2,10 @@
 # yarn lockfile v1
 
 
-crocks@^0.9.4:
-  version "0.9.4"
-  resolved "https://registry.yarnpkg.com/crocks/-/crocks-0.9.4.tgz#bc4e13da4b3173a8e48af0a620dc83ee7c4b22b0"
+crocks@^0.12.4:
+  version "0.12.4"
+  resolved "https://registry.yarnpkg.com/crocks/-/crocks-0.12.4.tgz#b4a4512f64e90c42d31375e1a2902a0f9d4b4916"
+  integrity sha512-paln6xJUrR9e/OWMFsyTi4dLyr+q99C5f7PQbGgSDHtwsfW0sCNZvnpHzvniI2dAE0uoBgeIP1Ukmme8Z0HxxA==
 
 ramda@^0.25.0:
   version "0.25.0"
